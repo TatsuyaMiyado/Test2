@@ -2,9 +2,9 @@ gitのテスト
 -------------
 
 # rebase
-- hogehoge
-- fugafuga
+- hoge
+- fuga
 
 # merge
-- fooooo
-- barrrr
+- foo
+- bar
