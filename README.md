@@ -8,3 +8,7 @@ gitのテスト
 # merge
 - foo
 - bar
+
+# cherrypick
+- aaa
+- bbb
