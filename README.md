@@ -8,3 +8,4 @@ gitのテスト
 # merge
 - foo
 - bar
+- bazzzz
